@@ -10,10 +10,11 @@ Um simples **userbot do Telegram** feito em **Python**, que encaminha automatica
 - Telethon
 
 
-````markdown
+
 ## ⚙️ Configuração e uso
 
 1. **Clone o repositório**
+````markdown
    ```bash
    git clone https://github.com/denilsonbcj/ForwardBot.git
    cd ForwardBot
