@@ -1,16 +1,16 @@
-````markdown
+
 # ForwardBot 🔁
 
 Um simples **userbot do Telegram** feito em **Python**, que encaminha automaticamente mensagens de um canal de origem para um canal de destino, usando a biblioteca [Telethon](https://github.com/LonamiWebs/Telethon).
 
----
+
 
 ## 🚀 Tecnologias utilizadas
 - Python 3.10+
 - Telethon
 
----
 
+````markdown
 ## ⚙️ Configuração e uso
 
 1. **Clone o repositório**
@@ -44,13 +44,13 @@ Um simples **userbot do Telegram** feito em **Python**, que encaminha automatica
 > Na primeira execução, o Telegram pode pedir o código de autenticação via mensagem ou SMS.
 > Após isso, o bot manterá uma sessão salva localmente.
 
----
+
 
 ## 📜 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
+
 
 ## 👤 Autor
 
