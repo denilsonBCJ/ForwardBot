@@ -3,13 +3,13 @@
 
 Um simples **userbot do Telegram** feito em **Python**, que encaminha automaticamente mensagens de um canal de origem para um canal de destino, usando a biblioteca [Telethon](https://github.com/LonamiWebs/Telethon).
 
-
+---
 
 ## 🚀 Tecnologias utilizadas
 - Python 3.10+
 - Telethon
 
-
+---
 
 ## ⚙️ Configuração e uso
 
@@ -44,39 +44,17 @@ Um simples **userbot do Telegram** feito em **Python**, que encaminha automatica
 > Na primeira execução, o Telegram pode pedir o código de autenticação via mensagem ou SMS.
 > Após isso, o bot manterá uma sessão salva localmente.
 
-
+---
 
 ## 📜 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
+---
 
 ## 👤 Autor
 
 **Denilson**
 Desenvolvedor Python focado em automação e bots para Telegram.
-
-```
-
-
-
-## ⚖️ 4. `LICENSE`
-
-Crie o arquivo `LICENSE` com este conteúdo (licença MIT é padrão e profissional):
-
-```
-
-MIT License
-
-Copyright (c) 2025 Denilson
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-...
 
 ````
