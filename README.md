@@ -55,7 +55,6 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para m
 
 ## 👤 Autor
 
-**Denilson**
+**Denilson Borges**
 Desenvolvedor Python focado em automação e bots para Telegram.
 
-````
